@@ -1,0 +1,6 @@
+*Our Final Project for ITE110
+*MEMBERS
+-OTAZA
+-SALARDA
+-SALAS
+

@@ -1,4 +1,4 @@
-*Our Final Project for ITE110
+*Our Final Project for ITE110-AK1
 *MEMBERS
 -OTAZA
 -SALARDA
